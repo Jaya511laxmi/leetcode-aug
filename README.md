@@ -8,13 +8,14 @@ The goal is to maintain a **consistent coding habit** and improve problem-solvin
 
 ## Daily Progress Tracker
 
-| Day | Date       | Problem Title               | Difficulty | Solution Link |
-|-----|------------|-----------------------------|------------|----------------|
-| 01  | Aug 01     | Pascal's Triangle (#118)    | Easy       | [View](./day01-pascals-triangle.md) |
-| 02  | Aug 02     | ...                         | ...        | ...            |
-| 03  | Aug 03     | ...                         | ...        | ...            |
-| ... | ...        | ...                         | ...        | ...            |
-| 31  | Aug 31     | ...                         | ...        | ...            |
+| Day | Date       | Problem Title                  | Difficulty | Solution Link                           |
+|-----|------------|----------------------------------|------------|------------------------------------------|
+| 01  | Aug 01     | Pascal's Triangle (#118)        | Easy       | [View](./Day1.md)      |
+| 02  | Aug 02     | Rearranging Fruits (#2561)      | Hard       | [View](./Day2.md)    |
+| 03  | Aug 03     | ...                              | ...        | ...                                      |
+| ... | ...        | ...                              | ...        | ...                                      |
+| 31  | Aug 31     | ...                              | ...        | ...                                      |
+
 
 *Will update this table daily throughout August!*
 ---
