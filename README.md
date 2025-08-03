@@ -12,7 +12,7 @@ The goal is to maintain a **consistent coding habit** and improve problem-solvin
 |-----|------------|----------------------------------|------------|------------------------------------------|
 | 01  | Aug 01     | Pascal's Triangle (#118)        | Easy       | [View](./Day1.md)      |
 | 02  | Aug 02     | Rearranging Fruits (#2561)      | Hard       | [View](./Day2.md)    |
-| 03  | Aug 03     | ...                              | ...        | ...                                      |
+| 03  | Aug 03     | Maximum Fruits Harvested After at Most K Steps (#2106)|Hard|[View](./Day#.md)        |
 | ... | ...        | ...                              | ...        | ...                                      |
 | 31  | Aug 31     | ...                              | ...        | ...                                      |
 
