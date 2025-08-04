@@ -10,9 +10,10 @@ The goal is to maintain a **consistent coding habit** and improve problem-solvin
 
 | Day | Date       | Problem Title                  | Difficulty | Solution Link                           |
 |-----|------------|----------------------------------|------------|------------------------------------------|
-| 01  | Aug 01     | Pascal's Triangle (#118)        | Easy       | [View](./Day1.md)      |
-| 02  | Aug 02     | Rearranging Fruits (#2561)      | Hard       | [View](./Day2.md)    |
-| 03  | Aug 03     | Maximum Fruits Harvested After at Most K Steps (#2106)|Hard|[View](./Day#.md)        |
+| 01  | Aug 01     | Pascal's Triangle (#118)         | Easy       | [View](./Day1.md)      |
+| 02  | Aug 02     | Rearranging Fruits (#2561)       | Hard       | [View](./Day2.md)    |
+| 03  | Aug 03     | Maximum Fruits Harvested After at Most K Steps (#2106)|Hard|[View](./Day3.md)        |
+| 04  | Aug 04     | Fruit Into Baskets (#904)        |Medium       |[View](./Day4.md)        |
 | ... | ...        | ...                              | ...        | ...                                      |
 | 31  | Aug 31     | ...                              | ...        | ...                                      |
 
