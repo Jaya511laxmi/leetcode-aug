@@ -14,6 +14,9 @@ The goal is to maintain a **consistent coding habit** and improve problem-solvin
 | 02  | Aug 02     | Rearranging Fruits (#2561)       | Hard       | [View](./Day2.md)    |
 | 03  | Aug 03     | Maximum Fruits Harvested After at Most K Steps (#2106)|Hard|[View](./Day3.md)        |
 | 04  | Aug 04     | Fruit Into Baskets (#904)        |Medium       |[View](./Day4.md)        |
+| 05  | Aug 05     | Fruit Into Baskets II (#3477)    |Easy         |[View](./Day5.md)        |
+| 06  | Aug 06     | Fruit Into Baskets III (#3479)   |Medium       |[View](./Day6.md)        |
+| 07  | Aug 07     | Find the Maximum Number of Fruits Collected (#3363)|Hard |[View](./Day7.md)        |
 | ... | ...        | ...                              | ...        | ...                                      |
 | 31  | Aug 31     | ...                              | ...        | ...                                      |
 
